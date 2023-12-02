@@ -1,0 +1,13 @@
+.subtotal {
+  display: flex;
+  justify-content: space-between;
+}
+.subtotal-left {
+  flex: 0.7;
+  display: flex;
+}
+.subtotal-right {
+  flex: 0.3;
+  display: flex;
+  justify-content: end;
+}
